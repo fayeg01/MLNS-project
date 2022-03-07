@@ -1,0 +1,3 @@
+[submodule "CommunityGAN"]
+	path = CommunityGAN
+	url = https://github.com/SamJia/CommunityGAN.git
